@@ -1,0 +1,84 @@
+ExplicitAutoJoints trueSSTR
+ Attachment
+ BodyVelocity DistortionSoundEffect
+ EchoSoundEffect EqualizerSoundEffect
+ FlangeSoundEffect ParticleEmitter
+ PointLight
+ SpecialMesh
+ TremoloSoundEffect
+ AttributesSerialize Capabilities! DefinesCapabilities
+ ment Trail PttachPROP$
+ SourceAssetId
+ AttributesSerialize Capabilities! DefinesCapabilities
+ BodyGyroPROP
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities PROP BodyVelocityPROP
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities PROP Enabled PROP DistortionSoundEffect PffectPROP
+ SourceAssetId
+ AttributesSerialize Capabilities! DefinesCapabilities PROP
+ Enabled PROP
+ EchoSoundEffect PffectPROP
+ SourceAssetId
+ AttributesSerialize Capabilities! DefinesCapabilities PROP Enabled PROP
+ EqualizerSoundEffect PffectPROP
+ SourceAssetId
+ AttributesSerialize Capabilities! DefinesCapabilities PROP Enabled PROP FlangeSoundEffect PffectPROP
+ SourceAssetId
+ AttributesSerialize Capabilities! DefinesCapabilities PROP
+ LevelOfDetail ModelMeshCFrame
+ ModelMeshData
+ ModelMeshSize ModelStreamingMode deceptionPROP NeedsPivotMigration PROP PrimaryPart ScaleFactor
+ SourceAssetId WorldPivotData
+ AttributesSerialize
+ AudioCanCollide PROP
+ BackParamA
+ BackParamB BackSurface BackSurfaceInput
+ BottomParamA
+ BottomParamB
+ BottomSurface BottomSurfaceInput
+ CanCollide PROP CanQuery PROP CanTouch PROP Capabilities!
+ CastShadow CollisionGroup DefaultPROP CollisionGroupId Color3uint8 CustomPhysicalProperties PROP DefinesCapabilities PROP EnableFluidForces PROP FrontParamA FrontParamB
+ FrontSurface FrontSurfaceInput
+ LeftParamA
+ LeftParamB LeftSurface LeftSurfaceInput Locked PROP Massless PROP MaterialVariantS
+  ized RushNewPROP# PivotOffset Reflectance RightParamA RightParamB
+ RightSurface RightSurfaceInput
+ RootPriority RotVelocity
+ SourceAssetId
+ TopSurface
+ TopSurfaceInput
+ Transparency
+ formFactorRaw
+ Acceleration AttributesSerialize
+ Brightness Capabilities! DefinesCapabilities PROP EmissionDirection Enabled PROP FlipbookBlendFrames FlipbookFramerate FlipbookIncompatible Particle texture must be 1024 by to use flipbooks.PROP FlipbookLayout
+ FlipbookMode
+ FlipbookSizeX
+ FlipbookSizeY FlipbookStartRandom PROP
+ LightEmission LightInfluence LockedToPart ParticleEmitterPROP Orientation
+ ShapeInOut
+ ShapePartial
+ ShapeStyle
+ SourceAssetId
+ SpreadAngle
+ rbxassetid://86184343158316PROP Transparency
+ VelocityInheritance
+ WindAffectsDrag PROP
+ AttributesSerialize
+ Brightness
+ Capabilities!
+ DefinesCapabilities PROP
+ Name
+ PointLight PLightPROP
+ SourceAssetId
+ AcousticSimulationEnabled AttributesSerialize Capabilities! DefinesCapabilities
+ LoopRegion Scream Footsteps KnockPROP PlayOnRemove PlaybackRegion PlaybackRegionsEnabled
+ PlaybackSpeed RollOffMaxDistance RollOffMinDistance RollOffMode
+ SoundGroup rbxassetid://5263560566 9114038247PROP!
+ SourceAssetId
+ TimePosition
+ AttributesSerialize Capabilities! DefinesCapabilities PROP
+ SourceAssetId VertexColor
+ AttributesSerialize
+ Capabilities!
+ DefinesCapabilities PROP
+ TremoloSoundEffect PffectPROP
+ SourceAssetId
